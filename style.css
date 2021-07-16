@@ -1,0 +1,159 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: #E5E5E5;
+}
+
+.about-me__profession {
+    font-size: 14px;
+}
+
+.about-me__name {
+    font-size: 45px;
+}
+
+.about-me__text {
+    font-size: 14px;
+    line-height: 24px;
+    max-width: 400px;
+    color: #595959;
+}
+
+h3 {
+    font-size: 22px;
+    margin-top: 40px;
+}
+
+h4 {
+    font-size: 16px;
+}
+
+a {
+    text-decoration: none;
+    color: #595959;
+}
+
+span {
+    color: #595959;
+}
+
+.projects__item {
+    line-height: 24px;
+    font-size: 14px;
+    padding-left: 10px;
+}
+
+.projects__list {
+    padding-left: 16px;
+    font-weight: 700;
+}
+
+.projects__url,
+.projects__text {
+    font-weight: 400;
+}
+
+.work__list {
+    padding-left: 16px;
+}
+
+.work__position {
+    color: #A8A8A8;
+    font-size: 12px;
+}
+
+.work__firm {
+    color: #FB6D3A;
+}
+
+.work__item-skill {
+    color: #595959;
+    line-height: 24px;
+    font-size: 14px;
+    max-width: 525px;
+}
+
+.education__place {
+    color: #FB6D3A;
+}
+
+.education__time {
+   color: #A8A8A8;
+   font-size: 12px;
+}
+
+.container {
+    display: flex;
+    flex-direction: row-reverse;
+    margin: 40px auto;
+    justify-content: center;
+}
+
+.container__info {
+    width: 870px;
+    padding-top: 102px;
+    background-color: white;
+    padding-left: 88px;
+    padding-bottom: 105px;
+}
+
+.container__aside {
+    background-color: #1E2939;
+    width: 370px;
+}
+
+.contacts__title {
+    font-size: 22px;
+    color: white;
+}
+
+.container__skills {
+    padding-left: 40px;
+}
+
+.contacts__text {
+    color: white;
+    font-size: 14px;
+    padding-right: 15px;
+    font-weight: 700;
+}
+
+.contacts a {
+    opacity: 50%;
+    color: white;
+}
+
+.contacts__mail {
+    text-decoration: underline;
+}
+
+.skills__title {
+    color: white;
+}
+
+.skills__list {
+    color: #FB6D3A;    ;
+    font-size: 14px;
+    line-height: 24px;
+    margin-left: 0;
+    padding-left: 15px;
+}
+
+.skills__item {
+    color: white;
+    padding-left: 5px;
+}
+
+.photo {
+    padding-top: 40px;
+}
+
+.information__element {
+    list-style: none;
+}
+
+.information__list {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
