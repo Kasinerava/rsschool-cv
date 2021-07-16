@@ -36,3 +36,26 @@ Maintaining social networks, communications with users/experts, making content
 - [WebCam code](https://codepen.io/kasinerava/pen/yLayRwN?editors=0011)
 - [Crypto Page](https://kasinerava.github.io/zadanie-testowe-crypto/build/)
 - [Resume Maraphon](https://goit-maraphon-finish.netlify.app)
+
+### Skills 
+
+- HTML5, CSS3
+- JavaScript
+- ReactJS
+- Git
+- Gulp
+- sass
+- Responsive websites
+- PhotoShop
+- Figma
+- BEM
+- svg
+- backend (express.js)
+
+### Languages 
+
+- ENGLISH (Intermediate +)
+- UKRAINIAN (Intermediate)
+- BELARUSIAN (native)
+- RUSSIAN (native)
+- POLISH (A2)
